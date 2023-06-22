@@ -4,6 +4,6 @@
 
 <ul>
   <li>
-    <img src="images/slide0.jpg" alt="">
+    <img src="images/slide0.png" alt="">
   </li>
 </ul>
