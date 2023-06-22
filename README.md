@@ -4,6 +4,6 @@
 
 <img src="images/slide0.png" alt="">
 
-- [Base models](base_models.md]
+- [Base models](base_models.md)
 - [Assistants](assistants.md)
 
