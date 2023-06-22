@@ -23,3 +23,11 @@ Link: https://youtu.be/bZQun8Y4L2A?t=633
 <div style="float:left; width: 100%; margin-bottom: 10px;">
 <img src="images/slide15.png" alt="">
 </div>
+
+<div style="float:left; width: 100%; margin-bottom: 10px;">
+<img src="images/slide16.png" alt="">
+</div>
+
+<div style="float:left; width: 100%; margin-bottom: 10px;">
+<img src="images/slide17.png" alt="">
+</div>
