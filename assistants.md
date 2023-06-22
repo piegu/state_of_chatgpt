@@ -1,5 +1,7 @@
 # Assistants
 
+[Base models](base_models.md) | Assistants | [RLHF](rlhf.md)
+
 **Assistants are not base models.** We do not want them to answer our questions. We just want them to complete sentences.
 
 ## Video
@@ -38,4 +40,17 @@ Link: [https://youtu.be/bZQun8Y4L2A?t=633](https://youtu.be/bZQun8Y4L2A?t=633)
 
 <div style="float:left; width: 100%; margin-bottom: 10px;">
 <img src="images/slide19.png" alt="">
+</div>
+
+<div style="float:left; width: 100%; margin-bottom: 10px;">
+<img src="images/slide20.png" alt="">
+</div>
+
+
+<div style="float:left; width: 100%; margin-bottom: 10px;">
+<img src="images/slide22.png" alt="">
+</div>
+
+<div style="float:left; width: 100%; margin-bottom: 10px;">
+<img src="images/slide23.png" alt="">
 </div>
