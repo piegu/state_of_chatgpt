@@ -1,5 +1,7 @@
 # RLHF models
 
+[Base models](base_models.md) | [Assistants](assistants.md) | RLHF
+
 ## Video
 
 Link: [https://youtu.be/bZQun8Y4L2A?t=1035](https://youtu.be/bZQun8Y4L2A?t=1035)
