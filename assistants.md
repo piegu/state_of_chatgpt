@@ -46,11 +46,10 @@ Link: [https://youtu.be/bZQun8Y4L2A?t=633](https://youtu.be/bZQun8Y4L2A?t=633)
 <img src="images/slide20.png" alt="">
 </div>
 
-
 <div style="float:left; width: 100%; margin-bottom: 10px;">
-<img src="images/slide22.png" alt="">
+<img src="images/slide21.png" alt="">
 </div>
 
 <div style="float:left; width: 100%; margin-bottom: 10px;">
-<img src="images/slide23.png" alt="">
+<img src="images/slide22.png" alt="">
 </div>
